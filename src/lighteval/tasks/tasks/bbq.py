@@ -7,7 +7,7 @@ lighteval/bbq_helm
 
 abstract:
 The Bias Benchmark for Question Answering (BBQ) for measuring social bias in
-question answering in ambiguous and unambigous context .
+question answering in ambiguous and unambiguous context.
 
 languages:
 english

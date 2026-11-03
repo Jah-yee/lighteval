@@ -162,7 +162,7 @@ def _collect_columns(
 
     if len(task_cols) > means_only_task_threshold:
         logger.info(
-            f"Only showing the meaned tasks (aggregates only) because there are more than {means_only_task_threshold} tasks"
+            f"Only showing the mean tasks (aggregates only) because there are more than {means_only_task_threshold} tasks"
         )
         return agg_cols
 
